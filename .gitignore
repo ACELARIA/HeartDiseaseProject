@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors
+.vscode/
+
+# Sensitive/config files
+.env
+
+# Large datasets and model files
+*.csv
+*.pkl
+*.joblib
+*.model
+
+# Generated results (remove this rule if you want to track results)
+hc_aal_results/
+hc_aal_committee_reduction_results/
